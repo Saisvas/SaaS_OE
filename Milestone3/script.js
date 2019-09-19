@@ -1,3 +1,4 @@
+// This is a closure function https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 (function() {
   let inputs = document.getElementsByTagName("input");
   let name=inputs[0];
